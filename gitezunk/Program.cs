@@ -13,6 +13,8 @@ namespace gitezunk
             Console.WriteLine("haliho");
 
             Console.WriteLine("aweélkgj");
+
+            Console.WriteLine(6);
         }
     }
 }
