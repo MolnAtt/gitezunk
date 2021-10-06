@@ -11,6 +11,8 @@ namespace gitezunk
         static void Main(string[] args)
         {
             Console.WriteLine("haliho");
+
+            Console.WriteLine("aweélkgj");
         }
     }
 }
